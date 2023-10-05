@@ -2,7 +2,7 @@
 
 ### QUEM SOMOS?
 
-**ERUDA** é uma software house que une indivíduos com interesse em tecnologia e inovação e que capacita jovens desenvolvedores
+**ERUDA** é uma innovation house que une indivíduos com interesse em tecnologia e inovação e que capacita jovens desenvolvedores
 
 #### NOSSA MISSÃO
 
