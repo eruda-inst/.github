@@ -1,3 +1,13 @@
+<style>
+    .images {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-gap: 1em;
+    }
+    .images * {
+        border-radius: .5em;
+    }
+</style>
 # ERUDA
 
 ### QUEM SOMOS?
@@ -18,12 +28,10 @@ Dia 06/09/2023 nós fizemos uma reunião para criação da marca e a ideia de ag
 
 Por fim dia 04/10/2023 o conceito de Eruda ser a primeira casa de inovação de Jacobina e Região tomou forma.
 
-
-
-<div> 
-    <img src="bp1.jpeg">
-    <img src="bp2.jpeg">
-    <img src="bp3.jpeg">
+<div class="images"> 
+    <img src="https://raw.githubusercontent.com/eruda-inst/.github/main/profile/bp1.jpeg">
+    <img src="https://raw.githubusercontent.com/eruda-inst/.github/main/profile/bp2.jpeg">
+    <img src="https://raw.githubusercontent.com/eruda-inst/.github/main/profile/bp3.jpeg">
 </div>
 
 As primeiras logos não possuiam identidade própria carregando as cores da Newnet, Blueprint significava exatamente o que a palavra diz, uma planta ou um projeto em azul e em conjunto com a palavra Success o significado do projeto era de construir o próprio sucesso.
