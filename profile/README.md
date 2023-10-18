@@ -1,13 +1,4 @@
-<style>
-    .images {
-        display: grid;
-        grid-template-columns: auto auto auto;
-        grid-gap: 1em;
-    }
-    .images * {
-        border-radius: .5em;
-    }
-</style>
+
 # ERUDA
 
 ### QUEM SOMOS?
@@ -29,8 +20,6 @@ Dia 06/09/2023 nós fizemos uma reunião para criação da marca e a ideia de ag
 Por fim dia 04/10/2023 o conceito de Eruda ser a primeira casa de inovação de Jacobina e Região tomou forma.
 
 <div class="images"> 
-    <img src="https://raw.githubusercontent.com/eruda-inst/.github/main/profile/bp1.jpeg">
-    <img src="https://raw.githubusercontent.com/eruda-inst/.github/main/profile/bp2.jpeg">
     <img src="https://raw.githubusercontent.com/eruda-inst/.github/main/profile/bp3.jpeg">
 </div>
 
