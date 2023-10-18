@@ -1,3 +1,13 @@
+<style>
+    .images {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-gap: 1em;
+    }
+    .images * {
+        border-radius: .5em;
+    }
+</style>
 # ERUDA
 
 ### QUEM SOMOS?
@@ -12,10 +22,10 @@ No dia 26/06/2023 fechamos um contrato com a plataforma de cursos Alura para ben
 
 Dia 04/08/2023 surge então o nome do primeiro protótipo Blueprint Success, que visava trazer jovens para dentro da empresa para capacitar-se profissionalmente.
 
-<div> 
-    <img src="bp1.jpeg">
-    <img src="bp2.jpeg">
-    <img src="bp3.jpeg">
+<div class="images"> 
+    <img src="https://raw.githubusercontent.com/eruda-inst/.github/main/profile/bp1.jpeg">
+    <img src="https://raw.githubusercontent.com/eruda-inst/.github/main/profile/bp2.jpeg">
+    <img src="https://raw.githubusercontent.com/eruda-inst/.github/main/profile/bp3.jpeg">
 </div>
 
 As primeiras logos não possuiam identidade própria
